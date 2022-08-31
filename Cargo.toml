@@ -2,7 +2,7 @@
 name = "matrixlib"
 version = "0.1.0"
 edition = "2021"
-authors = ["Squirrelcoding"]
+authors = ["Squirrelcoding <rosilescarlos28@gmail.com>"]
 description = "A really bad toy matrix library just so i can practice some rust. Don't use this. Use Nalgebra."
 license = "GPL-2.0-or-later"
 license-file = "LICENSE"
