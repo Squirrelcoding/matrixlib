@@ -1,3 +1,5 @@
+//! Matrices
+
 pub mod mtuple;
 pub mod ops;
 pub mod ops2x2;
